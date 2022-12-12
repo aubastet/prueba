@@ -226,7 +226,7 @@ a#about-us {
     box-shadow: 0 0 0 0.2rem #ffb10040;
 }
 
-.btn-form{
+input {
             border-style: solid!important;
             color: #343434;
             padding: 5px 17px;
